@@ -10,11 +10,11 @@ public class LP_Atividade_N1_1_07_2040482612014 {
         String valorA = scanner.nextLine();
 
         //2
-         System.out.print("Informe o valor B (ex.:0.90): ");
+        System.out.print("Informe o valor B (ex.:0.90): ");
         String valorB = scanner.nextLine();
 
         //3
-         System.out.print("Informe o valor total da compra: ");
+        System.out.print("Informe o valor total da compra: ");
         String valorCompra = scanner.nextLine();
 
         //4
